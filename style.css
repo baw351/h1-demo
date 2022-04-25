@@ -1,5 +1,10 @@
-p {
+h1 {
     color: red;
     font-size: larger;
     align-items: center;
+}
+
+p { 
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
 }
