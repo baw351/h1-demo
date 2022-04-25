@@ -1,10 +1,6 @@
 h1 {
-    color: red;
-    font-size: larger;
+    background-color: black;
+    color: beige;
+    justify-content: center;
     align-items: center;
-}
-
-p { 
-    background-color: blue;
-    font-family: 'Times New Roman', Times, serif;
 }
